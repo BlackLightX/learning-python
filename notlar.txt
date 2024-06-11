@@ -6,6 +6,6 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - "replit.com" online editörü kullanımı
 - Python ve Visual Studio Code kurma ve ayarlama
-- Pythona alışmak için mini bir test kodu yazdım > "https://github.com/BlackLightX/learning-python/blob/4911c37383b659823daf84641f7f7691194a0176/projeler/variable_test.py"
-- Veri tipleri(int ve float) ve matematiksel operatörleri öğrendim ve quizi yaptım > "https://github.com/BlackLightX/learning-python/blob/01e5c364c5ac0687d1d0a1ac8397376da5f56f1a/gorseller/data%20type%20ve%20math%20op%20quiz.png"
-- Pythonda değişkenleri öğrendim, test kodu yazdım ve quizi çözdüm > "https://github.com/BlackLightX/learning-python/blob/95a9a22c7c356cb30fd3f8fab54665e0f99c97af/gorseller/degiskenler-quizi.png
+- Pythona alışmak için mini bir test kodu yazdım 
+- Veri tipleri(int ve float) ve matematiksel operatörleri öğrendim ve quizi yaptım 
+- Pythonda değişkenleri öğrendim, test kodu yazdım ve quizi çözdüm 
