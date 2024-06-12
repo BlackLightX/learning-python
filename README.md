@@ -1,5 +1,6 @@
 Python'a Giriş
 Kurs: "https://www.udemy.com/course/python-dersleri/?couponCode=KEEPLEARNING"
+
 Ders notları: "https://sadikturan.com/python-dersleri"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 11.06.2024
