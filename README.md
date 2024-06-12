@@ -11,3 +11,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Pythona alışmak için mini bir test kodu yazdım 
 - Veri tipleri(int ve float) ve matematiksel operatörleri öğrendim ve quizi yaptım 
 - Pythonda değişkenleri öğrendim, test kodu yazdım ve quizi çözdüm 
+-----
+- Karakter dizileri, string, string metotları, string slicing
