@@ -14,3 +14,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 -----
 - Karakter dizileri, string, string metotları, string slicing öğrendim "https://www.w3schools.com/python/python_ref_string.asp"
 - Karakter dizileriyle ilgili w3school quzilerini çözdüm.
+------
+- Pythonda listeleri öğrendim ve liste metotlarında pratik yaptım
