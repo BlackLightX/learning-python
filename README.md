@@ -18,4 +18,4 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Pythonda listeleri öğrendim ve liste metotlarında pratik yaptım
 ------
 - Geldiğim yere kadarki w3school quizlerini çözdüm
-- Tuple kullanımı, dictionary mantığını öğrendim
+- Tuple kullanımı, dictionary mini uygulama yapıp mantığını öğrendim
