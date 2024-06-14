@@ -16,3 +16,6 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Karakter dizileriyle ilgili w3school quzilerini çözdüm.
 ------
 - Pythonda listeleri öğrendim ve liste metotlarında pratik yaptım
+------
+- Geldiğim yere kadarki w3school quizlerini çözdüm
+- Tuple kullanımı, dictionary mantığını öğrendim
