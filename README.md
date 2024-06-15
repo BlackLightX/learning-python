@@ -21,3 +21,4 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Tuple kullanımı, dictionary mini uygulama yapıp mantığını öğrendim
 ------
 - Sets, value & referans öğrendim
+- Atama operatorleri ve karsilastirma operatorleri bitti ve uygulaması yapıldı
