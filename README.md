@@ -19,3 +19,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 ------
 - Geldiğim yere kadarki w3school quizlerini çözdüm
 - Tuple kullanımı, dictionary mini uygulama yapıp mantığını öğrendim
+------
+- Sets, value & referans öğrendim
