@@ -22,3 +22,4 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 ------
 - Sets, value & referans öğrendim
 - Atama operatorleri ve karsilastirma operatorleri bitti ve uygulaması yapıldı
+- Logical, identify ve membership operatorlerini bitirdim ve örnek yaptım.
