@@ -25,4 +25,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Logical, identify ve membership operatorlerini bitirdim ve örnek yaptım.
 ------
 - if, else koşullu ifadelere baktım, yakıt tüketim maliyeti kodunun yazımına baktım. 
-(bayram nedeniyle evde olamıyorum bu sabah kaldığım yerden devam edeceğim)
+-------
+- if else ve for döngüsü bitti ve pratik yapıldı
