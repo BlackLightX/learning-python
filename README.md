@@ -30,6 +30,6 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 -------
 - while, break-contiune bitti. Uygulama örneklerinde baya zaman geçirdim. Python'da acaba şöyle yapsam hata alır mıyım almaz mıyım diye denemeler yaptım.
 - *** Kendime not:
-- * Prefix hataları yapıyorum. {} ve [] işaretlerini koyacağım yerleri karıştırıyorum. 
-- * List ve Dict kavramını karıştırıyorum. Buna tekrar bakmam gerek.
-- * List ve dict'in metotlarını Google'dan bakarak kullanmaya çalışıyorum. Bu kısmada tekrar bakmam gerek.
+* Prefix hataları yapıyorum. {} ve [] işaretlerini koyacağım yerleri karıştırıyorum. 
+* List ve Dict kavramını karıştırıyorum. Buna tekrar bakmam gerek.
+* List ve dict'in metotlarını Google'dan bakarak kullanmaya çalışıyorum. Bu kısmada tekrar bakmam gerek.
