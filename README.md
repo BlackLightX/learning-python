@@ -33,3 +33,6 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - * Prefix hataları yapıyorum. { } ve [ ] işaretlerini koyacağım yerleri karıştırıyorum. 
 - * List ve Dict kavramını karıştırıyorum. Buna tekrar bakmam gerek.
 - * List ve dict'in metotlarını Google'dan bakarak kullanmaya çalışıyorum. Bu kısmada tekrar bakmam gerek.
+------
+- Döngü metotlarına baktım. range(), enumerate(), zip()
+- Bunlarla uygulama yapmaya çalıştım.
