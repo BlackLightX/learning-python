@@ -36,3 +36,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 ------
 - Döngü metotlarına baktım. range(), enumerate(), zip()
 - Bunlarla uygulama yapmaya çalıştım.
+-------
+- Yazılım bilimi kanalından geldiğim yere kadar Python tekrarı yaptım. "https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR"
