@@ -39,3 +39,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 -------
 - Yazılım bilimi kanalından geldiğim yere kadar Python tekrarı yaptım. "https://www.youtube.com/playlist?list=PLIHume2cwmHehcxQE1XZieL21syR3m3tR"
 - Sayı tahmin uygulaması yaptım. Uygulamayı yaparken random modülünü kullanmayı öğrendim. Uygulamayı hiç yardım almadan yazmaya çalıştım ve başardım.
+-------
+- Fonksiyonların mantığını ve işlevini kavradım. 5 tane uygulama yazdım.
