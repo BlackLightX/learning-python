@@ -41,3 +41,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Sayı tahmin uygulaması yaptım. Uygulamayı yaparken random modülünü kullanmayı öğrendim. Uygulamayı hiç yardım almadan yazmaya çalıştım ve başardım.
 -------
 - Fonksiyonların mantığını ve işlevini kavradım. 5 tane uygulama yazdım.
+---------
+- Default parametre tanımlama ve keyword arguments öğrendim.
