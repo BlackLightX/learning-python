@@ -43,3 +43,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Fonksiyonların mantığını ve işlevini kavradım. 5 tane uygulama yazdım.
 ---------
 - Default parametre tanımlama ve keyword arguments öğrendim.
+----------
+- Fonksiyonlar devam ettim. *args, *kwargs öğrendim.
