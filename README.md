@@ -45,3 +45,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Default parametre tanımlama ve keyword arguments öğrendim.
 ----------
 - Fonksiyonlar devam ettim. *args, *kwargs öğrendim.
+----------
+- Global ve local değişken tanımlamayı öğrendim. Bankamatik para çekme fonksiyonunu yazdım.
