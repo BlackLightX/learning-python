@@ -47,3 +47,5 @@ Ders notları: "https://sadikturan.com/python-dersleri"
 - Fonksiyonlar devam ettim. *args, *kwargs öğrendim.
 ----------
 - Global ve local değişken tanımlamayı öğrendim. Bankamatik para çekme fonksiyonunu yazdım.
+----------
+- Lambda ve Built-in fonksiyonlarına çalıştım. Projeleri sonra ekleyeceğim. İtalya tatiliyle uğraştığım için vakit bulamadım 1-2 gün.
